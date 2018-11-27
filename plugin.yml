@@ -1,0 +1,14 @@
+main: me.Logaaan.rpgplugin.Main
+author: Logaaan
+description: RPG Plugin
+version: 1.3
+name: RPGPlugin
+api-version: 1.13
+softdepend: ["PlaceholderAPI"]
+commands:
+  class:
+    usage: "/class"
+  assign:
+    usage: "/assign"
+  wands:
+    usage: "/wands <text> <text>"
